@@ -9,6 +9,7 @@ using System.IO;
 
 namespace Peliasiakas1
 {
+    //Peliasiakkaan testausehdotelma verkkopeliä varten.
     class Program
     {
         private static PeliAsiakas asiakasV;
